@@ -8,7 +8,7 @@ Version:	1.4.4
 Release:	%mkrel 3
 License:	GPL
 Group:		System/Libraries
-URL:		http://srtp.sourceforge.net/
+URL:		https://srtp.sourceforge.net/
 Source0:	http://srtp.sourceforge.net/%{name}-%{version}.tgz
 Patch0:		srtp-shared.diff
 BuildRequires:	autoconf automake libtool
